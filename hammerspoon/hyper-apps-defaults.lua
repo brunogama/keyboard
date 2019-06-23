@@ -11,6 +11,5 @@ return {
   { 'e', 'Sublime Text' },       -- "E" for "Editor"
   { 'f', 'Finder' },             -- "F" for "Finder"
   { 'g', 'Mail' },               -- "G" for "Gmail"
-  { 's', 'Slack' },              -- "S" for "Slack"
   { 't', 'iTerm' },              -- "T" for "Terminal"
 }
